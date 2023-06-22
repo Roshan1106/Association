@@ -43,8 +43,8 @@ export const routes = [
       },
       {
         icon: <HomeIcon {...icon} />,
-        name: "joinEvent",
-        path: "/joinEvent",
+        name: "AddEvent",
+        path: "/AddEvent",
         element: <joinEvent />,
       }
     ],
